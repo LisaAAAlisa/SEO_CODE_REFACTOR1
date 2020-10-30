@@ -7,6 +7,8 @@ In this project I made the following refactors:
 <li>added image attributes</li>
 <li>updated links so they connect</li>
 <li>updated the title to reflect what the wbsite is about</li>
+<li>changed backgtound image size and positioning for faster loading</li>
+</ul>
 
 
 
